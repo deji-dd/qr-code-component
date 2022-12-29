@@ -32,3 +32,9 @@ code {
 #root {
   padding-top: 10%;
 }
+
+footer {
+  position: relative;
+  text-align: center;
+  bottom: 0;
+}

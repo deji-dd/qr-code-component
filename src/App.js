@@ -18,6 +18,9 @@ function App() {
           </p>
         </div>
       </div>
+      <footer className="mt-5">
+        <p className="my-0">Made with {"<3"} by Deji</p>
+      </footer>
     </div>
   );
 }
